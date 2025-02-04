@@ -16,6 +16,13 @@ git clone https://github.com/zayeemZaki/campus-navigator.git
 cd campus-navigator
 ```
 
-## Usage
-Instructions on how to use the project will be added here.
+## Branch Management
 
+### Switching Between Branches
+To switch between the `develop` and `main` branches, use the following commands:
+
+```bash
+git checkout branchName
+```
+
+Please only push to develop branch!
